@@ -1,1 +1,3 @@
-# Installing_Splunk
+# 
+-----------------------------------------SCRIPT USED TO CREATE SPLUNK on VM -------------------------------
+
